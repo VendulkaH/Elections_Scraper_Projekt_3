@@ -16,7 +16,7 @@ Tento projekt je scraper volebních výsledků z roku 2017 v ČR. Program stáhn
 1. Vytvořte a aktivujte virtuální prostředí:
    ```bash
    python -m venv venv # vytvoření virtuálního prostředí
-   venv\Scripts\activate  # aktivaace virtuálního prostředí
+   venv\Scripts\activate  # aktivace virtuálního prostředí
    ```
 2. Nainstalujte požadované balíčky:
    ```bash
