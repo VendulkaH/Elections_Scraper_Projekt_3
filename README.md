@@ -26,12 +26,12 @@ Tento projekt je scraper volebních výsledků z roku 2017 v ČR. Program stáhn
 ### Spuštění skriptu
 Skript se spouští z příkazové řádky a požaduje dva povinné argumenty:
 ```bash
-python projekt_3.py <URL_uzemniho_celku> <vystupni_soubor.csv>
+python main.py <URL_uzemniho_celku> <vystupni_soubor.csv>
 ```
 
 #### Příklad použití:
 ```bash
-Příkazový řádek:
+Visual Studio Code:
 (venv) PS C:\Users\vendy\Desktop\ENGETO\Elections_Scraper_Projekt_3> python main.py "https://www.volby.cz/pls/ps2017nss/ps32?xjazyk=CZ&xkraj=2&xnumnuts=2112" vysledky_rakovnik.csv
 [1] Spoustim hlavni program
 [5] Argumenty OK
